@@ -6,7 +6,7 @@ import CTA from './CTA'
 import HeaderSocials from './HeaderSocials'
 
 //images
-import ME from '../../assets/me-1.png'
+import ME from '../../assets/me.png'
 
 const Header = () => {
   return (
