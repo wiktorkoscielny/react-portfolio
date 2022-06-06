@@ -3,6 +3,7 @@ import './header.css'
 
 // components
 import CTA from './CTA'
+import HeaderSocials from './HeaderSocials'
 
 //images
 import ME from '../../assets/me-1.png'
@@ -15,6 +16,7 @@ const Header = () => {
         <h1>Wiktor Koscielny</h1>
         <h5 className='text-light'>Front End Developer</h5>
         <CTA />
+        <HeaderSocials />
 
         <div className='me'>
           <img src={ME} alt='' />
