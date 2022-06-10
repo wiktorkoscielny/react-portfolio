@@ -19,7 +19,7 @@ that uses several render methods
 and is styled with a responsive design.
 It also uses emailjs platform.
 
-### Check this project out [here]()
+### Check this project out [here](https://wiktorkoscielny.github.io/react-portfolio/)
 
 ## Setup
 
