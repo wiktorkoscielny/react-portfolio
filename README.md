@@ -3,7 +3,7 @@
 
 
 
-# React App with Google Maps API
+# React Portfolio
 
 ## Table of contents
 * [General info](#general-info)
