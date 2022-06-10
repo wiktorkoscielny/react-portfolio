@@ -1,12 +1,33 @@
 import React from 'react'
 import './contact.css'
 
+// emailjs
+import { useRef } from 'react';
+import emailjs from 'emailjs-com'
+
 // icons
 import {MdOutlineMail} from 'react-icons/md'
 import {RiMessengerLine} from 'react-icons/ri'
 import {AiOutlineWhatsApp} from 'react-icons/ai'
 
 const Contact = () => {
+
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm(process.env.REACT_APP_SERVICEID_API_KEY, process.env.REACT_APP_TEMPLATEID_API_KEY, form.current, process.env.REACT_APP_PUBLICKEY_API_KEY)
+      .then((result) => {
+          alert('Email sent successfully!');
+      }, (error) => {
+          console.log(error.text);
+          alert('Somethig went wrong, check the console');
+      });
+
+      e.target.reset();
+  };
+
   return (
     <section id='contact'>
       <h5>Get in Touch</h5>
@@ -39,7 +60,7 @@ const Contact = () => {
         </div>
 
         {/* RIGHT SIDE */}
-        <form action=''>
+        <form ref={form} onSubmit={sendEmail}>
           <input type='text' name='name' placeholder='Your Full Name' required />
           <input  type='email' name='email' placeholder='Your email' required/>
           <textarea name='message' rows='7' placeholder='Your Message' required></textarea>
