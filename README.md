@@ -15,6 +15,8 @@ that uses several render methods
 and is styled with a responsive design.
 It also uses emailjs platform.
 
+To check the final code, check branch master, to check the all stages of work on the application, check the individual branches
+
 ### Check this project out [here](https://wiktorkoscielny.github.io/react-portfolio/)
 
 ## Setup
