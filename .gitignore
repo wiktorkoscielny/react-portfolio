@@ -3,6 +3,9 @@
 #pictures
 /src/assets
 
+# api keys
+.env
+
 # dependencies
 /node_modules
 /.pnp
