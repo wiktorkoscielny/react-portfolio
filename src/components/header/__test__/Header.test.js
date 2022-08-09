@@ -17,7 +17,7 @@ afterEach(() => {
   container.remove();
   container = null;
 });
-it("renders with or without a name", () => {
+it("renders without crashing", () => {
   render(<Header />, container);
 });
 // snapshot
