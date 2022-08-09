@@ -18,6 +18,7 @@ It's pretty simple application
 that uses several render methods 
 and is styled with a responsive design.
 It also uses emailjs platform.
+Right now I'm creating unit & integration tests.
 
 ### Check this project out [here](https://wiktorkoscielny.github.io/react-portfolio/)
 
