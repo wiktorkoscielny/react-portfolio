@@ -12,7 +12,7 @@ const Footer = () => {
       <a href='#' className='footer__logo'>Wiktor Koscielny</a>
 
       <ul className='permalinks'>
-        <li><a href='#'>Home</a></li>
+        <li><a data-testid='home-link' href='#'>Home</a></li>
         <li><a href='#about'>About</a></li>
         <li><a href='#experience'>Experience</a></li>
         <li><a href='#services'>Services</a></li>
@@ -22,9 +22,9 @@ const Footer = () => {
       </ul>
 
       <div className='footer__socials'>
-        <a href='https://facebook.com'><FaFacebookF /></a>
-        <a href='https://instagram.com'><FaInstagram /></a>
-        <a href='https://twitter.com'><FaTwitter /></a>
+        <a data-testid='fb-icon' href='https://facebook.com'><FaFacebookF /></a>
+        <a data-testid='ig-icon' href='https://instagram.com'><FaInstagram /></a>
+        <a data-testid='tt-icon' href='https://twitter.com'><FaTwitter /></a>
       </div>
 
       <div className='footer__copyright'>
