@@ -1,0 +1,543 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<section
+  id="services"
+>
+  <h5>
+    What I Offer
+  </h5>
+  <h2>
+    Services
+  </h2>
+  <div
+    className="container service__container"
+  >
+    <article
+      className="service"
+    >
+      <div
+        className="service__head"
+      >
+        <h3>
+          UI/UX Design
+        </h3>
+      </div>
+      <ul
+        className="service__list"
+      >
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+      </ul>
+    </article>
+    <article
+      className="service"
+    >
+      <div
+        className="service__head"
+      >
+        <h3>
+          Web Development
+        </h3>
+      </div>
+      <ul
+        className="service__list"
+      >
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+      </ul>
+    </article>
+    <article
+      className="service"
+    >
+      <div
+        className="service__head"
+      >
+        <h3>
+          Content Creation
+        </h3>
+      </div>
+      <ul
+        className="service__list"
+      >
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+        <li>
+          <svg
+            className="service__list-icon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
+            />
+          </svg>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur elit.
+          </p>
+        </li>
+      </ul>
+    </article>
+  </div>
+</section>
+`;

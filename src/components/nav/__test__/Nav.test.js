@@ -67,7 +67,6 @@ it("Test if navlinks className is changing when clicked", () => {
     fireEvent.click(button);
     expect((button).getAttribute('class')).toMatch('');
 });
-
 // snapshot
 it('matches snapshot', ()=>{
     let tree = renderer.create(<Nav />).toJSON();

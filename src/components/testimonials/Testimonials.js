@@ -3,7 +3,6 @@ import './testimonials.css'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
-
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles

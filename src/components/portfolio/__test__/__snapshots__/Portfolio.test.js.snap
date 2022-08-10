@@ -1,0 +1,222 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<section
+  id="portfolio"
+>
+  <h5>
+    My recent work
+  </h5>
+  <h2>
+    Portfolio
+  </h2>
+  <div
+    className="container portfolio__container"
+  >
+    <article
+      className="portfolio__item"
+    >
+      <div
+        className="portfolio__item-image"
+      >
+        <img
+          alt="Portfolio picture no. 1"
+          data-testid="image-1"
+          src="image-1.jpg"
+        />
+      </div>
+      <h3>
+        This is a portfolio item title
+      </h3>
+      <div
+        className="portfolio__item-cta"
+      >
+        <a
+          className="btn"
+          href="htpps://github.com"
+          target="_blank"
+        >
+          Github
+        </a>
+        <a
+          className="btn btn-primary"
+          href="https://www.youtube.com"
+          target="_blank"
+        >
+          Live Demo
+        </a>
+      </div>
+    </article>
+    <article
+      className="portfolio__item"
+    >
+      <div
+        className="portfolio__item-image"
+      >
+        <img
+          alt="Portfolio picture no. 2"
+          data-testid="image-2"
+          src="image-2.jpg"
+        />
+      </div>
+      <h3>
+        This is a portfolio item title
+      </h3>
+      <div
+        className="portfolio__item-cta"
+      >
+        <a
+          className="btn"
+          href="htpps://github.com"
+          target="_blank"
+        >
+          Github
+        </a>
+        <a
+          className="btn btn-primary"
+          href="https://www.youtube.com"
+          target="_blank"
+        >
+          Live Demo
+        </a>
+      </div>
+    </article>
+    <article
+      className="portfolio__item"
+    >
+      <div
+        className="portfolio__item-image"
+      >
+        <img
+          alt="Portfolio picture no. 3"
+          data-testid="image-3"
+          src="image-3.jpg"
+        />
+      </div>
+      <h3>
+        This is a portfolio item title
+      </h3>
+      <div
+        className="portfolio__item-cta"
+      >
+        <a
+          className="btn"
+          href="htpps://github.com"
+          target="_blank"
+        >
+          Github
+        </a>
+        <a
+          className="btn btn-primary"
+          href="https://www.youtube.com"
+          target="_blank"
+        >
+          Live Demo
+        </a>
+      </div>
+    </article>
+    <article
+      className="portfolio__item"
+    >
+      <div
+        className="portfolio__item-image"
+      >
+        <img
+          alt="Portfolio picture no. 4"
+          data-testid="image-4"
+          src="image-4.jpg"
+        />
+      </div>
+      <h3>
+        This is a portfolio item title
+      </h3>
+      <div
+        className="portfolio__item-cta"
+      >
+        <a
+          className="btn"
+          href="htpps://github.com"
+          target="_blank"
+        >
+          Github
+        </a>
+        <a
+          className="btn btn-primary"
+          href="https://www.youtube.com"
+          target="_blank"
+        >
+          Live Demo
+        </a>
+      </div>
+    </article>
+    <article
+      className="portfolio__item"
+    >
+      <div
+        className="portfolio__item-image"
+      >
+        <img
+          alt="Portfolio picture no. 5"
+          data-testid="image-5"
+          src="image-5.jpg"
+        />
+      </div>
+      <h3>
+        This is a portfolio item title
+      </h3>
+      <div
+        className="portfolio__item-cta"
+      >
+        <a
+          className="btn"
+          href="htpps://github.com"
+          target="_blank"
+        >
+          Github
+        </a>
+        <a
+          className="btn btn-primary"
+          href="https://www.youtube.com"
+          target="_blank"
+        >
+          Live Demo
+        </a>
+      </div>
+    </article>
+    <article
+      className="portfolio__item"
+    >
+      <div
+        className="portfolio__item-image"
+      >
+        <img
+          alt="Portfolio picture no. 6"
+          data-testid="image-6"
+          src="image-6.jpg"
+        />
+      </div>
+      <h3>
+        This is a portfolio item title
+      </h3>
+      <div
+        className="portfolio__item-cta"
+      >
+        <a
+          className="btn"
+          href="htpps://github.com"
+          target="_blank"
+        >
+          Github
+        </a>
+        <a
+          className="btn btn-primary"
+          href="https://www.youtube.com"
+          target="_blank"
+        >
+          Live Demo
+        </a>
+      </div>
+    </article>
+  </div>
+</section>
+`;

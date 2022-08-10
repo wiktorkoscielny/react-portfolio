@@ -15,6 +15,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
+    dataTestId: 'image-1',
     title: 'This is a portfolio item title',
     alt: 'Portfolio picture no. 1',
     github: 'htpps://github.com',
@@ -23,6 +24,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
+    dataTestId: 'image-2',
     title: 'This is a portfolio item title',
     alt: 'Portfolio picture no. 2',
     github: 'htpps://github.com',
@@ -31,6 +33,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
+    dataTestId: 'image-3',
     title: 'This is a portfolio item title',
     alt: 'Portfolio picture no. 3',
     github: 'htpps://github.com',
@@ -39,6 +42,7 @@ const data = [
   {
     id: 4,
     image: IMG4,
+    dataTestId: 'image-4',
     title: 'This is a portfolio item title',
     alt: 'Portfolio picture no. 4',
     github: 'htpps://github.com',
@@ -47,6 +51,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
+    dataTestId: 'image-5',
     title: 'This is a portfolio item title',
     alt: 'Portfolio picture no. 5',
     github: 'htpps://github.com',
@@ -55,6 +60,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
+    dataTestId: 'image-6',
     title: 'This is a portfolio item title',
     alt: 'Portfolio picture no. 6',
     github: 'htpps://github.com',
@@ -71,11 +77,11 @@ const Portfolio = () => {
       <div className='container portfolio__container'>
 
         {
-          data.map(({id, image, title, alt, github, demo}) => {
+          data.map(({id, image, dataTestId, title, alt, github, demo}) => {
             return (
               <article key={id} className='portfolio__item'>
                 <div className='portfolio__item-image'>
-                  <img src={image} alt={alt}></img>
+                  <img data-testid={dataTestId} src={image} alt={alt}></img>
                 </div>
                 <h3>{title}</h3>
                 <div className='portfolio__item-cta'>
